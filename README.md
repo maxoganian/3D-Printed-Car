@@ -11,7 +11,9 @@ Here is the 3D printer with custom feeder for the filament:
 
 <img src="images/3dPrinter.jpg" alt="alt text" width="800">
 
-For this project everthing was printed on M3D's Micro printer. I used M3D's Tough and ABS-R filement for all of the prints. While the filement is fantastic I can not recomend the Micro 3D printer. All of the CAD files include a tolerance of about .2 inches. All of the CAD drawings were done in Fusion 360.
+For this project everthing was printed on M3D's Micro printer. I used M3D's Tough and ABS-R filement for all of the prints. While the filement is fantastic I can not recomend the Micro 3D printer. All of the CAD files include a tolerance of about .2 inches. All of the CAD drawings were done in Fusion 360. I print onto painters tape. The printers setting that I use can be found here:
+
+https://onedrive.live.com/view.aspx?cid=bba9db95c889ce42&page=view&resid=BBA9DB95C889CE42!1509&parId=BBA9DB95C889CE42!104&authkey=!AlJb8YXmwCSRwF0&app=Excel
 
 Here is the robot car as of Aug. 30, 2020:
 
