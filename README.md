@@ -7,7 +7,16 @@ A small robotic car using 3D printed parts.
 This project is a robotic car that can be 3D printed on the Micro 3D Printer from M3D. This car was printed with M3D's tough and ABS-R filement. The software runs on an Arduino MKR1000. The car is controlled through the blynk app over wifi. The Blynk app communicates over WiFi with the MKR1000.
 
 ## Parts List
-*jhsgfds
+Here is a list of all the the parts used in this project:
+
+*Arduino MKR1000 - https://store.arduino.cc/usa/arduino-mkr1000
+*L293d Motor Driver - https://www.adafruit.com/product/807
+*2 Mini Breadboards - https://www.amazon.com/ELEGOO-6PCS-tie-Points-Breadboard-Arduino/dp/B01EV6SBXQ/ref=sr_1_2_sspa?dchild=1&keywords=mini+breadboard&qid=1599064607&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNkVETTRPMEhSMkpPJmVuY3J5cHRlZElkPUEwNzI4OTIxMkVPUTZGRDM5VVpJQyZlbmNyeXB0ZWRBZElkPUEwOTkyNzczMjc1TFhURFRHVTU3JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+*2 generic Hobby motors - https://www.amazon.com/Aoicrie-Electric-Magnetic-Engine%EF%BC%8CDIY-Vibration/dp/B083BDW3FD/ref=sr_1_15?dchild=1&keywords=hobby+motor+dc&qid=1599064649&sr=8-15
+*M3D Filement - https://store.printm3d.com/pages/filaments
+*M3D Micro (**NOT** recomended as a 3D Printer) - https://store.printm3d.com/products/the-micro-plus-3d-printer
+*Blynk app (I used the IOS version) - https://blynk.io/
+*Arduino Software - https://www.arduino.cc/en/main/software
 
 ## 3D Printing
 Here is the 3D printer with custom feeder for the filament:
