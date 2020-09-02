@@ -16,7 +16,7 @@ Here is a list of all the the parts used in this project:
 *M3D Filement - https://store.printm3d.com/pages/filaments \
 *M3D Micro (**NOT** recomended as a 3D Printer) - https://store.printm3d.com/products/the-micro-plus-3d-printer \
 *Blynk app (I used the IOS version) - https://blynk.io/ \
-*Arduino Software - https://www.arduino.cc/en/main/software \
+*Arduino Software - https://www.arduino.cc/en/main/software 
 
 ## 3D Printing
 Here is the 3D printer with custom feeder for the filament:
