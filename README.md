@@ -21,3 +21,4 @@ Here is the robot car as of Aug. 30, 2020:
 
 ## Electronics
 
+<img src="3D Printed Robot.pdf" alt="alt text" width="800">
