@@ -9,7 +9,7 @@ This project is a robotic car that can be 3D printed on the Micro 3D Printer fro
 ## Parts List
 Here is a list of all the the parts used in this project:
 
-*Arduino MKR1000 - https://store.arduino.cc/usa/arduino-mkr1000
+*Arduino MKR1000 - https://store.arduino.cc/usa/arduino-mkr1000 \n
 *L293d Motor Driver - https://www.adafruit.com/product/807
 *2 Mini Breadboards - https://www.amazon.com/ELEGOO-6PCS-tie-Points-Breadboard-Arduino/dp/B01EV6SBXQ/ref=sr_1_2_sspa?dchild=1&keywords=mini+breadboard&qid=1599064607&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNkVETTRPMEhSMkpPJmVuY3J5cHRlZElkPUEwNzI4OTIxMkVPUTZGRDM5VVpJQyZlbmNyeXB0ZWRBZElkPUEwOTkyNzczMjc1TFhURFRHVTU3JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
 *2 generic Hobby motors - https://www.amazon.com/Aoicrie-Electric-Magnetic-Engine%EF%BC%8CDIY-Vibration/dp/B083BDW3FD/ref=sr_1_15?dchild=1&keywords=hobby+motor+dc&qid=1599064649&sr=8-15
