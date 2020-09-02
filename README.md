@@ -21,4 +21,4 @@ Here is the robot car as of Aug. 30, 2020:
 
 ## Electronics
 
-<img src="images/Screenshot5.png" alt="alt text" width="800">
+<img src="images/Screenshot (5).png" alt="alt text" width="800">
