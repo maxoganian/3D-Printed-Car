@@ -20,5 +20,10 @@ Here is the robot car as of Aug. 30, 2020:
 <img src="images/robotCar30Aug2020.jpg" alt="alt text" width="800">
 
 ## Electronics
+The wiring of this project is extremly simple. The motors are run through an h-bridge motor driver (L293d) by the Arduino Mkr 1000.
+Below is a schematic for the wiring of this project. For the 6v power supply I used 4 AA batteries.
 
 <img src="images/Screenshot (5).png" alt="alt text" width="800">
+
+## Code
+The code for this robot is similarly simple. It takes the input from the blynk app's joystick and converts that to power and direction for both motors. It takes input from a botton in the Blynk app as well to determine if the robot will spin in place when turning or make longer turns.
